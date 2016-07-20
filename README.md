@@ -1,4 +1,4 @@
-[![Build Status](https://snap-ci.com/snap-ci-examples/snapci-ruby-heroku/branch/master/build_image)](https://snap-ci.com/snap-ci-examples/snapci-ruby-heroku/branch/master)
+[![      Build Status](https://snap-ci.com/snap-ci-examples/snapci-ruby-heroku/branch/master/build_image)](https://snap-ci.com/snap-ci-examples/snapci-ruby-heroku/branch/master)
 
 A barebones Rails app which can easily be deployed to Heroku using [Snap CI] (snap-ci.com).
 
